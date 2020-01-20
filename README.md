@@ -1,4 +1,4 @@
-# CSS-Breaker<br/><br/>
+# CSS-Breaker<br/>
 
 breaks the css on any website that is visited<br/><br/>
 
